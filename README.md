@@ -1,2 +1,2 @@
 # timetolearngit
-I'm learning gt!
+I'm learning git!
